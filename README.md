@@ -1,5 +1,8 @@
-### Hi there 👋
+### Zoriksde [Patryk Przybysz] 👋
+🌱 Aktualnie pracuję nad projektem dotyczącym sklepu internetowego, projekt pisany jest w ReactJS + Python/Django + MongoDB
 
+### 📫 Kontakt
+Discord: Zoriksde#2585 oraz Email: PatrykPrzybysz.tl@interia.pl
 <!--
 **Zoriksde/Zoriksde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
