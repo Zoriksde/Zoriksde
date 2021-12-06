@@ -3,6 +3,10 @@
 
 ### 📫 Kontakt
 Discord: Zoriksde#2585 oraz Email: PatrykPrzybysz.tl@interia.pl
+
+### 💬 Artykuł
+https://paperswithcode.com/paper/wantwords-an-open-source-online-reverse#code
+
 <!--
 **Zoriksde/Zoriksde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
