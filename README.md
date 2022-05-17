@@ -44,7 +44,7 @@ If you are interested in work with me - amazing brooo, i am surely into it!
 Email me: PatrykPrzybysz.tl@interia.pl or patrickk.przybysz@gmail.com (always responding in 1-2 days 😎)
 
 My fav quotes:
-> Show me your code, i will tell you how you are
+> Show me your code, i will tell you who you are
 
 > If you can't explain it in simple words, you don't understand it
 
