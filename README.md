@@ -18,6 +18,7 @@ I have made a great progress for 5 years from now, when my coding career has sta
 * [Pathfinding Visualizer Project](https://react-pathfinding.vercel.app/)
 * [Sorting Visualizer Project](https://react-sorting.vercel.app/)
 * [Neural Network from Scratch Project](https://github.com/Zoriksde/python-neural-network)
+* [Neuroevolution in Python Project](https://github.com/Zoriksde/python-neuroevolution)
 * and a lot of more...
 
 That's only a small part of my achievements 😆
