@@ -23,7 +23,7 @@ I have made a great progress for 7 years from now, when my coding career has sta
 * AWS Certified Developer – Associate (DVA-C01) Not industry certificate
 * AWS Certified Solutions Architect – Associate (SAA-C02) Not industry certificate
 * Finalist of national AGH ODI math olympiad (top 10% score).
-* Finalist of natial AGH ODI computer science olympiad (top 4% score).
+* Finalist of national AGH ODI computer science olympiad (top 4% score).
 * and a lot of more...
 
 That's only a small part of my achievements 😆
