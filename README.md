@@ -22,8 +22,8 @@ I have made a great progress for 7 years from now, when my coding career has sta
 * [Neuroevolution in Python Project](https://github.com/Zoriksde/python-neuroevolution)
 * AWS Certified Developer – Associate (DVA-C01) Not industry certificate
 * AWS Certified Solutions Architect – Associate (SAA-C02) Not industry certificate
-* Finalist of national AGH ODI Math Olympiad (top 8% score).
-* Finalist of national AGH ODI Computer Science Olympiad (top 2% score).
+* Finalist of national AGH ODI Math Olympiad.
+* Finalist of national AGH ODI Computer Science Olympiad.
 * and a lot of more...
 
 That's only a small part of my achievements 😆
